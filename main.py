@@ -363,7 +363,7 @@ medical_jargon = {
 MEDICAL_API_KEY = "08e61de9-267d-4629-8aa2-4b566f0c68a0"
 # link = https://www.ruf.rice.edu/~kemmer/Words04/usage/jargon_medical.html
 
-medical_PDF = newText = input("Enter text: ")
+medical_PDF = newText = input("Enter text here: ")
 
 
 for term in medical_PDF.split():
